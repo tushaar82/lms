@@ -384,4 +384,4 @@ A comprehensive student academics management system for computer institutes that
 5. **Monitoring**: Application performance monitoring
 6. **Backup**: Automated database and file backups
 
-This architecture provides a solid foundation for building a comprehensive student academics management system that meets all your requirements while ensuring scalability, performance, and maintainability.
+This architecture provides a solid foundation for building a comprehensive student academics management system that meets all your requirements while ensuring scalability, performance, and maintainability
